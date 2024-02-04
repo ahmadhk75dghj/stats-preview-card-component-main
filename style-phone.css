@@ -1,0 +1,49 @@
+section {
+    flex-direction: column;
+    height: auto;
+    width: 90%;
+}
+
+.image {
+    width: 100%;
+    background-image: url('images/image-header-mobile.jpg');
+    height: 250px;
+}
+
+.con {
+    width: 100%;
+    text-align: center;
+    padding: 45px 15px;
+    min-height: 0px;
+}
+
+.up {
+    height: auto;
+}
+
+.up h1 {
+    font-size: 30px;
+}
+
+.up p {
+    padding: 0 20px;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.down {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    margin-top: 50px;
+    padding: 0;
+}
+
+.down .number h3 {
+    font-size: 20px;
+}
+
+.down .number p {
+    font-size: 13px;
+}

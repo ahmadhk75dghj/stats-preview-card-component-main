@@ -1,0 +1,24 @@
+section {
+    width: 95%;
+    height: 350px;
+}
+
+.up {
+    height: 145px;
+}
+
+.up h1 {
+    font-size: 28px;
+}
+
+.up p {
+    font-size: 13px;
+}
+
+.down .number h3 {
+    font-size: 19px;
+}
+
+.down .number p {
+    font-size: 10px;
+}
